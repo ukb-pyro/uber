@@ -103,4 +103,10 @@ If you want, I can create a **table mapping historical aristocracy to modern tec
 That would make the comparison crystal clear. Would you like me to do that?
 
 # D
+| Era                     | Source of Power                       | Main Aristocrats                                              | Economic Dependents                | Control Mechanism                               | Form of 'Slavery'                      |
+|-------------------------|---------------------------------------|---------------------------------------------------------------|--------------------------------------|-------------------------------------------------|-----------------------------------------|
+| Feudal / Agrarian       | Land ownership                        | Nobility (dukes, counts, barons)                              | Peasants / serfs                     | Control of agriculture & protection            | Serfdom (bound to land)                 |
+| Industrial Revolution   | Factories, capital, railroads         | Industrial magnates                                           | Factory workers                       | Control of production & wages                   | Wage dependency                         |
+| Digital / AI Era        | Platforms, compute, data, AI models   | AAAMEN (Alphabet, Amazon, Apple, Meta, Elon, Nvidia)          | Developers, startups, end-users      | Control of APIs, algorithms, infrastructure     | Platform dependency / data lock-in      |
+
 # E
