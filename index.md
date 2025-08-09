@@ -1,0 +1,11 @@
+> Learning to [love](https://www.youtube.com/watch?v=769ol0IgWKE) the bomb
+- [reddit](https://www.reddit.com/r/Nietzsche/comments/173vh63/%C3%BCbermensch_and_ai/)
+- [fortunte](https://fortune.com/2023/08/13/artificial-intelligence-superhuman-fourth-industrial-revolution-nietszche-superman/)
+- [medium](https://murat-durmus.medium.com/the-digital-%C3%BCbermensch-ai-from-nietzsches-perspective-5974b69c6f33)
+- [milostate](https://milostate.com/ai-transcendence-human-folly-nietzsches-ubermensch/)
+- [big think](https://bigthink.com/thinking/rethinking-nietzsches-overhuman-as-a-prophecy-of-superintelligent-ai/)
+- [linkedin](https://www.linkedin.com/pulse/artificial-%C3%BCbermensch-nietzschean-reflections-emergent-smith-9lmne)
+- [wikipedia](https://en.wikipedia.org/wiki/%C3%9Cbermensch)
+- [selavy](https://www.selavy.fr/post/nietzsche-in-the-age-of-ai-the-%C3%BCbermensch-and-the-algorithm)
+- [memod](https://memod.com/svetskiwrites/what-would-nietzsche-say-about-artificial-intelligence-6302)
+- [yahoo](https://finance.yahoo.com/news/superhuman-fourth-industrial-revolution-just-094500190.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADa3wBiPqPOUnoSRDHL6HIAVe13iKjT4WoKy1sFtWrZjFzNc4YmyBwVDfdQd9baJn82esLTBnELBfwHH50yQFrxVKsyhZS_XK57tJK276ia3pjBjZaDqR06J0c4VQDgUytjcrVpLdj44BFHT7HGrLSqx7GLuPcelSgMaB7p7UmLo)
