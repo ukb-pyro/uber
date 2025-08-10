@@ -152,7 +152,7 @@ If you like, I can retrofit this **Plant-first pentad** into the interactive HTM
 * Emergent Realms
 * Plant → AI arc
 
-That way, you’d have *three lenses* on the same Ukubona tree.
+That way, Ukubona [via](https://ukb-pyro.github.io/gpt-5/) *three lenses* on the same tree.
 
 Do you want me to integrate that third mode?
 
