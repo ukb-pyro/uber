@@ -104,11 +104,15 @@ That would make the comparison crystal clear. Would you like me to do that?
 
 # D
 
-| Era                   | Source of Power                     | Main Aristocrats                                      | Economic Dependents           | Control Mechanism                           | Form of 'Slavery'                 |
-|-----------------------|--------------------------------------|-------------------------------------------------------|--------------------------------|---------------------------------------------|------------------------------------|
-| Feudal / Agrarian     | Land ownership                       | Nobility (dukes, counts, barons)                      | Peasants / serfs               | Control of agriculture & protection         | Serfdom (bound to land)            |
-| Industrial Revolution | Factories, capital, railroads        | Industrial magnates                                   | Factory workers                 | Control of production & wages               | Wage dependency                    |
-| Digital / AI Era      | Platforms, compute, data, AI models  | AAAMEN (Alphabet, Amazon, Apple, Meta, Elon, Nvidia)  | Developers, startups, end-users | Control of APIs, algorithms, infrastructure | Platform dependency / data lock-in |
+|Deity | Era                   | Source of Power                     | Main Aristocrats                                      | Economic Dependents           | Control Mechanism                           | Form of 'Slavery'                 |
+|------|-----------------------|--------------------------------------|-------------------------------------------------------|--------------------------------|---------------------------------------------|------------------------------------|
+| God  | Feudal / Agrarian     | Land ownership                       | Nobility (dukes, counts, barons)                      | Peasants / serfs               | Control of agriculture & protection         | Serfdom (bound to land)            |
+| Man  | Industrial Revolution | Factories, capital, railroads        | Industrial magnates                                   | Factory workers                 | Control of production & wages               | Wage dependency                    |
+| AI   | Digital / AI Era      | Platforms, compute, data, AI models  | AAAMEN (Alphabet, Amazon, Apple, Meta, Elon, Nvidia)  | Developers, startups, end-users | Control of APIs, algorithms, infrastructure | Platform dependency / data lock-in |
 
 
 # E
+
+- Creator only responsible for initial conditions of a recursive system
+- Interaction amongst agents leads to emergence of new parameters & dependencies
+- The creator is reduced to a serpent, faustian secrets & bargains, and tangential influence
